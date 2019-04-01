@@ -1,0 +1,3 @@
+[submodule "demogitsubmodulelib"]
+	path = demogitsubmodulelib
+	url = https://github.com/panzilong118/demogitsubmodulelib.git
